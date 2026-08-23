@@ -7,8 +7,11 @@ I'm a BS Information Technology student at the **International Islamic Universit
  Projects here come from my university coursework and Coursera courses — a mix of applied data engineering, OOP/DSA fundamentals, and infrastructure-as-code practice
  Currently strengthening: SQL, Python for data engineering, and Terraform/cloud infra basics
  Reach me: 
+ 
  Email: aimenfatima559@gamil.com
+ 
  LinkedIn: https://www.linkedin.com/in/aimen-fatima-1ab0a7331/
+ 
  Tech Stack
 `Python` · `C++` · `PostgreSQL` · `HCL / Terraform` · `Git & GitHub`
 
