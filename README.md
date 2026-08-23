@@ -1,4 +1,4 @@
-Hi, I'm Aimen
+Hi, I'm Aimen,
 
 I'm a BS Information Technology student at the **International Islamic University, Islamabad (IIUI)**, currently heading into my 5th semester. I'm building my skills toward a career in **Data Engineering** — working with data pipelines, warehousing, and the infrastructure that supports them.
 
