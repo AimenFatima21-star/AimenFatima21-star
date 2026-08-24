@@ -74,9 +74,8 @@ jobs:
           context: .
           push: true
           tags: |
-            ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:${{ github.sha }}
-            ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:latest
-
+            ghcr.io/aimenfatima21-star/data-warehouse-project:${{ github.sha }}
+      ghcr.io/aimenfatima21-star/data-warehouse-project:latest
   deploy-staging:
     name: Deploy to Staging
     runs-on: ubuntu-latest
