@@ -3,7 +3,7 @@ name: Complete Deployment Pipeline
 
 on:
   push:
-    branches: [ main, develop ]
+    branches: [ main, develop, AimenFatima21-star-patch-1 ]
   pull_request:
     branches: [ main ]
   workflow_dispatch:
